@@ -10,7 +10,7 @@
 
 ## Módulo 1 [Introdução a Web3]
 
-- ⏰ [aula 1: Introdução a web3](./mod1/aula1/README.md)
+- ✔ [aula 1: Introdução a web3](./mod1/aula1/README.md)
 - ⏰ [aula 2: O que é Criptografia](./mod1/aula2/README.md)
 - ⏰ [aula 3: O que é uma Wallet](./mod1/aula3/README.md)
 - ⏰ [aula 4: O que é um Dapp](./mod1/aula4/README.md)
